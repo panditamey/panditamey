@@ -6,5 +6,4 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=panditamey&show_icons=true&include_all_commits=true&theme=ayu-mirage" alt="Ravi's github stats" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=panditamey&layout=compact&theme=ayu-mirage" />
 
-<br><br>
-![](https://komarev.com/ghpvc/?username=panditamey&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=panditamey&style=flat)-->
