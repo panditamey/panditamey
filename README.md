@@ -11,6 +11,6 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panditamey&theme=tokyonight" />
   <br/>
 
-[![Amey's github activity graph](https://activity-graph.herokuapp.com/graph?username=panditamey&theme=xcode)](https://ameypandit.netlify.com)
+[![Amey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panditamey&theme=react)](https://amey.me)
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=panditamey&style=flat)-->
