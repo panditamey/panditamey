@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panditamey
 - 🌱 I’m currently learning Android Development
 
-[View My Portfolio : ameypandit.netlify.com](https://ameypandit.netlify.com)
+[View My Portfolio : amey.me](https://amey.me)
 <p align="center">
 <img width="48%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=panditamey&show_icons=true&include_all_commits=true&theme=ayu-mirage" alt="Amey's github stats" />
   
@@ -11,6 +11,6 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panditamey&theme=tokyonight" />
   <br/>
 
-[![Amey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panditamey&theme=github)](https://amey.me)
+[![Amey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panditamey&theme=dracula&area=true&hide_border=true#gh-dark-mode-only)](https://amey.me)
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=panditamey&style=flat)-->
