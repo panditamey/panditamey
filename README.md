@@ -11,6 +11,6 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panditamey&theme=tokyonight" />
   <br/>
 
-[![Amey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panditamey&theme=dracula&area=true&hide_border=true#gh-dark-mode-only)](https://amey.me)
+[![Amey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panditamey&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://amey.me)
 </p>
 <!-- ![](https://komarev.com/ghpvc/?username=panditamey&style=flat)-->
