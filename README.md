@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @panditamey
 - 🌱 I’m currently learning Android Development
 
-[View My Portfolio : amey.me](https://amey.me)
+[View My Portfolio : amey.me](https://www.amey.me)
 <p align="center">
 <img width="48%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=panditamey&show_icons=true&include_all_commits=true&theme=ayu-mirage" alt="Amey's github stats" />
   
